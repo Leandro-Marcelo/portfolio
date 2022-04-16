@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bde562e7.css",
-    "main.js": "/portfolio/static/js/main.0b39cdd0.js",
+    "main.css": "/portfolio/static/css/main.b2dafc05.css",
+    "main.js": "/portfolio/static/js/main.f8323cc5.js",
     "static/media/SocialNetwork.png": "/portfolio/static/media/SocialNetwork.dfae8160a66d69756411.png",
     "static/media/Workflow.png": "/portfolio/static/media/Workflow.65a5ef822d638dea32e8.png",
     "static/media/TiendaOnlineFront.png": "/portfolio/static/media/TiendaOnlineFront.18d849a6654845a6571e.png",
@@ -21,11 +21,11 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/redux.svg": "/portfolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
     "index.html": "/portfolio/index.html",
-    "main.bde562e7.css.map": "/portfolio/static/css/main.bde562e7.css.map",
-    "main.0b39cdd0.js.map": "/portfolio/static/js/main.0b39cdd0.js.map"
+    "main.b2dafc05.css.map": "/portfolio/static/css/main.b2dafc05.css.map",
+    "main.f8323cc5.js.map": "/portfolio/static/js/main.f8323cc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.bde562e7.css",
-    "static/js/main.0b39cdd0.js"
+    "static/css/main.b2dafc05.css",
+    "static/js/main.f8323cc5.js"
   ]
 }
