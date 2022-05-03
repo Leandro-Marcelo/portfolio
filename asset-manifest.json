@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b2dafc05.css",
-    "main.js": "/portfolio/static/js/main.f8323cc5.js",
+    "main.js": "/portfolio/static/js/main.a2e873c7.js",
     "static/media/SocialNetwork.png": "/portfolio/static/media/SocialNetwork.dfae8160a66d69756411.png",
     "static/media/Workflow.png": "/portfolio/static/media/Workflow.65a5ef822d638dea32e8.png",
     "static/media/TiendaOnlineFront.png": "/portfolio/static/media/TiendaOnlineFront.18d849a6654845a6571e.png",
-    "static/media/LeandroMarceloCV.pdf": "/portfolio/static/media/LeandroMarceloCV.cf5a9ef84701fb9c70fa.pdf",
+    "static/media/123.pdf": "/portfolio/static/media/123.d13cf92471e5369713e4.pdf",
     "static/media/WebsiteTailwind.png": "/portfolio/static/media/WebsiteTailwind.6924bdd12f5449baeb4c.png",
     "static/media/SocialNetworkBack.png": "/portfolio/static/media/SocialNetworkBack.624923de8cd59e8deef2.png",
     "static/media/WorkflowBack.png": "/portfolio/static/media/WorkflowBack.947a7919718477a8fba7.png",
@@ -22,10 +22,10 @@
     "static/media/redux.svg": "/portfolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
     "index.html": "/portfolio/index.html",
     "main.b2dafc05.css.map": "/portfolio/static/css/main.b2dafc05.css.map",
-    "main.f8323cc5.js.map": "/portfolio/static/js/main.f8323cc5.js.map"
+    "main.a2e873c7.js.map": "/portfolio/static/js/main.a2e873c7.js.map"
   },
   "entrypoints": [
     "static/css/main.b2dafc05.css",
-    "static/js/main.f8323cc5.js"
+    "static/js/main.a2e873c7.js"
   ]
 }
