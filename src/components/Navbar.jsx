@@ -4,7 +4,6 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo.png";
 import { Link } from "react-scroll";
-import CV from "../assets/leandroMarcelo.pdf";
 
 const Navbar = () => {
     const [nav, setNav] = useState(false);
@@ -149,7 +148,9 @@ const Navbar = () => {
                     </li> */}
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
                         <a
-                            href={CV}
+                            href={
+                                "https://drive.google.com/file/d/1j92_Z0JLBrFFqf9hCV-pALEb-keU8v37/view?usp=sharing"
+                            }
                             target="_blank"
                             rel="noreferrer"
                             className="flex justify-between items-center w-full text-gray-300"
